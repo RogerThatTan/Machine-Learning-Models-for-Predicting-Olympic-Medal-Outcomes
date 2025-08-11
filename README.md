@@ -38,5 +38,3 @@ In this paper, the prediction of Olympic medal winners has been explored using v
 | Gradient Boosting         | Ensemble       |
 | Neural Network            | Deep Learning  |
 | Support Vector Machine    | Kernel-based   |
-
----
